@@ -33,7 +33,10 @@ The dashboard highlights a strong positive correlation (**$R^2 = 0.63$**) betwee
 * **Statistics:** Correlation and Pareto distribution analysis
 
 ## 📂 Dataset Description
-The analysis is based on a retail transactional dataset (`retail ecommerce dataset.csv`) containing the following attributes:
+The analysis is based on a retail transactional dataset 
+* **Dashboard:** [Retail E-commerce Dashboard](./Retail%20ecommerce%20project_202605082144_1.jpg)
+* **Dataset:** [Download Raw Data (.csv)](./retail%20ecommerce%20dataset.csv))
+* containing the following attributes:
 * **Order ID & Date:** Unique transaction identifiers used for time-series analysis.
 * **Category:** Product groupings (Books, Apparel, Electronics, etc.).
 * **Revenue & Target:** Financial metrics used to calculate variance and performance.
