@@ -1,6 +1,6 @@
 # Retail E-commerce Sales Performance Analysis
 
-![Dashboard Screenshot](<Retail ecommerce project_202605082144_1.jpg>)
+![Dashboard Screenshot](<Retail ecommerce project_202605082144_1.png>)
 
 ## 📌 Project Overview
 This project features an interactive **E-commerce Sales Performance Dashboard** designed to track key business metrics, analyze regional trends, and identify revenue drivers. The analysis focuses on a dataset of **$228K in total revenue**, evaluating performance against a **$214K target**.
