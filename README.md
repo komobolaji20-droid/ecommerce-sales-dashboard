@@ -87,5 +87,5 @@ The E-commerce Sales Performance Dashboard successfully transformed raw transact
 * **Opportunity:** The May peak and Northeast regional gap represent the two biggest levers for future growth. Replicating May's success across other quarters could lead to a significant year-over-year (YoY) revenue increase.
 
 This project serves as a foundation for future predictive modeling, such as forecasting Q3 sales trends and implementing customer lifetime value (CLV) tracking.
----
+
 *Developed by OMOBOLAJI KEHINDE ZACHARIAH*
